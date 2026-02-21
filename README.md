@@ -9,7 +9,7 @@ micro_wake_word:
   id: mww
   models:
     - model: https://raw.githubusercontent.com/olterman/MicroWakeWord-Assiss/refs/heads/main/assis.json
-      id: jemmah
+      id: assiss
       probability_cutoff: 0.98
       sliding_window_size: 7   
 ``` 
