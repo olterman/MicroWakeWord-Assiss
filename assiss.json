@@ -1,7 +1,7 @@
 {
     "type": "micro",
     "wake_word": "Assiss",
-    "author": "Tater Totterson",
+    "author": "Patrik Olterman Rodhe",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
     "model": "assiss.tflite",
     "trained_languages": ["en"],
